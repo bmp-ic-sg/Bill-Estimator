@@ -6,7 +6,7 @@
    <UUID>7da4693d-c01a-434e-825f-cd3762189092</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>C:\Users\wolfgang\Documents\bmp\GreatestArtWork\Automation Testing\SDMS\bill_estimator_comparison\OOP Integration.prj</projectFileLocation>
+   <projectFileLocation>/Users/zikri/Documents/katalon project/Bill-Estimator/OOP Integration.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
