@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "DB2952C733F10F69858E186F8169525C",
+  "keywordClasses": [
+    {
+      "name": "com.custom.pkg.readFirstDoc",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": false
+}

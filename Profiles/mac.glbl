@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>mac</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'./files/input/Payload.xlsx'</initValue>
+      <name>PayloadSourceFile</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'./files/input/Estimated Bill Size_AFD Campaign.xlsm'</initValue>
+      <name>BillEstimateFile</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'./files/input/AFD-cost-estimator.xlsx'</initValue>
+      <name>AfdEstimatorFile</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'./files/input/API Call Template.xlsx'</initValue>
+      <name>APIResultTemplate</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'./files/output/'</initValue>
+      <name>OutputFolder</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'source'</initValue>
+      <name>PayloadSourceSheet</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'{\\r\\n    \\&quot;securityHeader\\&quot;: {\\r\\n        \\&quot;state\\&quot;: \\&quot;${state}\\&quot;\\r\\n    },\\r\\n    \\&quot;languageCode\\&quot;: \\&quot;${languageCode}\\&quot;,\\r\\n    \\&quot;version\\&quot;: \\&quot;${version}\\&quot;,\\r\\n    \\&quot;hospitalCode\\&quot;: \\&quot;${hospitalCode}\\&quot;,\\r\\n    \\&quot;tospCode\\&quot;: \\&quot;${tospCode}\\&quot;,\\r\\n    \\&quot;preAuth\\&quot;: ${preAuth},\\r\\n    \\&quot;ispItemUrl\\&quot;: \\&quot;${ispItemUrl}\\&quot;\\r\\n}'</initValue>
+      <name>PayloadFormat</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>5</initValue>
+      <name>AfdEstimatorMaxLoop</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
